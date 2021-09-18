@@ -1,0 +1,15 @@
+{
+  "name": "qlb",
+  "version": "1.0.0",
+  "description": "基于NodeJs搭建的服务",
+  "main": "bin/server.js",
+  "scripts": {
+    "dev": "nodemon bin/server.js"
+  },
+  "author": "smallSeven",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12"
+  }
+}
